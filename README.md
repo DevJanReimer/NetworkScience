@@ -21,6 +21,11 @@ This study analyzes the global semiconductor trade network from 2017–2022, enr
 
 ---
 
+## Note
+
+The file WtoData_20241125021407.csv.zip needs to be unpacked locally and manually.
+
+
 ## Keywords
 
 - **Semiconductor**  
